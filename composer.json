@@ -3,7 +3,7 @@
     "description": "Fork of PayPal permission SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "homepage": "https://github.com/world4youcom/paypal-permissions-sdk-php",
-    "license": "Apache2",
+    "license": "PayPal SDK License",
     "authors": [
         {
             "name": "PayPal",
